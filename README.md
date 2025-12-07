@@ -59,3 +59,37 @@ Este proyecto incluye **GitHub Actions** para compilación automática:
 
 ## 📝 Estructura del Proyecto
 
+## 🔑 Configuración de Claves
+
+### Firebase
+- **Proyecto**: family-location-app-4b8a5
+- **Base de datos**: Realtime Database configurada
+- **Autenticación**: Google Sign-In habilitado
+
+### Google Maps
+- **API Key**: Configurada en AndroidManifest.xml
+- **Servicios**: Maps SDK for Android habilitado
+
+## 📱 Instalación
+
+1. Descarga el APK desde GitHub Actions
+2. Habilita "Fuentes desconocidas" en Android
+3. Instala el APK
+4. ¡Listo para usar!
+
+## 🤝 Contribuir
+
+1. Fork el proyecto
+2. Crea una rama para tu feature
+3. Commit tus cambios
+4. Push a la rama
+5. Abre un Pull Request
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
+
+---
+
+**Desarrollado con ❤️ para mantener a las familias conectadas**
+
