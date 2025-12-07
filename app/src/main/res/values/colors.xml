@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Main brand colors -->
+    <color name="primary">#1976D2</color>           <!-- Blue 700 -->
+    <color name="primary_dark">#1565C0</color>      <!-- Blue 800 -->
+    <color name="primary_light">#42A5F5</color>     <!-- Blue 400 -->
+    
+    <!-- Secondary Colors - Accent colors -->
+    <color name="secondary">#FF5722</color>         <!-- Deep Orange 500 -->
+    <color name="secondary_dark">#D84315</color>    <!-- Deep Orange 800 -->
+    <color name="secondary_light">#FF8A65</color>   <!-- Deep Orange 300 -->
+    
+    <!-- Accent Colors - Highlights and special elements -->
+    <color name="accent">#4CAF50</color>            <!-- Green 500 -->
+    <color name="accent_dark">#388E3C</color>       <!-- Green 700 -->
+    <color name="accent_light">#81C784</color>      <!-- Green 300 -->
+    
+    <!-- Status Colors - Success, warning, error -->
+    <color name="success">#4CAF50</color>           <!-- Green 500 -->
+    <color name="warning">#FF9800</color>           <!-- Orange 500 -->
+    <color name="error">#F44336</color>             <!-- Red 500 -->
+    <color name="info">#2196F3</color>               <!-- Blue 500 -->
+    
+    <!-- Background Colors - App background -->
+    <color name="background">#FAFAFA</color>        <!-- Grey 50 -->
+    <color name="background_dark">#F5F5F5</color>   <!-- Grey 100 -->
+    <color name="surface">#FFFFFF</color>           <!-- White -->
+    <color name="surface_dark">#F8F8F8</color>      <!-- Slightly off-white -->
+    
+    <!-- Text Colors - Different text hierarchy -->
+    <color name="text_primary">#212121</color>      <!-- Grey 900 -->
+    <color name="text_secondary">#757575</color>    <!-- Grey 600 -->
+    <color name="text_hint">#BDBDBD</color>         <!-- Grey 400 -->
+    <color name="text_disabled">#E0E0E0</color>     <!-- Grey 300 -->
+    <color name="text_inverse">#FFFFFF</color>      <!-- White -->
+    
+    <!-- Divider and Border Colors -->
+    <color name="divider">#E0E0E0</color>           <!-- Grey 300 -->
+    <color name="border">#BDBDBD</color>            <!-- Grey 400 -->
+    <color name="shadow">#1A000000</color>          <!-- Black 10% -->
+    
+    <!-- Location and Map Colors -->
+    <color name="location_current">#2196F3</color>  <!-- Blue 500 -->
+    <color name="location_family">#4CAF50</color>   <!-- Green 500 -->
+    <color name="location_alert">#F44336</color>    <!-- Red 500 -->
+    <color name="map_background">#E8F5E8</color>    <!-- Light Green -->
+    
+    <!-- Status Indicators -->
+    <color name="online">#4CAF50</color>            <!-- Green 500 -->
+    <color name="offline">#9E9E9E</color>           <!-- Grey 500 -->
+    <color name="away">#FF9800</color>              <!-- Orange 500 -->
+    <color name="busy">#F44336</color>              <!-- Red 500 -->
+    
+    <!-- Button Colors -->
+    <color name="button_primary">#1976D2</color>    <!-- Blue 700 -->
+    <color name="button_secondary">#FF5722</color>  <!-- Deep Orange 500 -->
+    <color name="button_success">#4CAF50</color>     <!-- Green 500 -->
+    <color name="button_warning">#FF9800</color>    <!-- Orange 500 -->
+    <color name="button_danger">#F44336</color>     <!-- Red 500 -->
+    <color name="button_disabled">#E0E0E0</color>   <!-- Grey 300 -->
+    
+    <!-- Card and Container Colors -->
+    <color name="card_background">#FFFFFF</color>    <!-- White -->
+    <color name="card_border">#E0E0E0</color>       <!-- Grey 300 -->
+    <color name="card_elevation">#1A000000</color>  <!-- Black 10% -->
+    
+    <!-- QR Code Colors -->
+    <color name="qr_code_background">#FFFFFF</color> <!-- White -->
+    <color name="qr_code_foreground">#000000</color> <!-- Black -->
+    <color name="qr_scan_border">#2196F3</color>    <!-- Blue 500 -->
+    
+    <!-- Notification Colors -->
+    <color name="notification_location">#2196F3</color>    <!-- Blue 500 -->
+    <color name="notification_family">#4CAF50</color>       <!-- Green 500 -->
+    <color name="notification_alert">#F44336</color>        <!-- Red 500 -->
+    <color name="notification_warning">#FF9800</color>      <!-- Orange 500 -->
+    
+    <!-- Profile Colors -->
+    <color name="profile_placeholder">#BDBDBD</color>     <!-- Grey 400 -->
+    <color name="profile_border">#E0E0E0</color>          <!-- Grey 300 -->
+    
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>      <!-- Fully transparent -->
+    <color name="semi_transparent">#80000000</color> <!-- 50% black -->
+    <color name="overlay_dark">#AA000000</color>     <!-- 67% black -->
+    
+    <!-- Material Design Colors (Legacy support) -->
+    <color name="material_blue_grey_800">#37474F</color>
+    <color name="material_blue_grey_900">#263238</color>
+    <color name="material_deep_teal_200">#80CBC4</color>
+    <color name="material_deep_teal_500">#009688</color>
+    
+    <!-- Custom Gradients (for future use) -->
+    <color name="gradient_start">#1976D2</color>    <!-- Blue 700 -->
+    <color name="gradient_end">#42A5F5</color>      <!-- Blue 400 -->
+    
+    <!-- Dark Theme Colors (for future implementation) -->
+    <color name="dark_background">#121212</color>    <!-- Dark background -->
+    <color name="dark_surface">#1E1E1E</color>      <!-- Dark surface -->
+    <color name="dark_text_primary">#FFFFFF</color>  <!-- White text -->
+    <color name="dark_text_secondary">#B3B3B3</color> <!-- Light grey text -->
+</resources>
