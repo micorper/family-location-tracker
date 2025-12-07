@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Family Location Tracker - App Dimensions
+  Created by MiniMax Agent
+  
+  GitHub: https://github.com/micorper/family-location-tracker
+  File: res/values/dimens.xml
+  Line count: 85 lines
+  Status: 28 of 28 files (100% complete)
+-->
+<resources>
+    
+    <!-- Spacing and Margins -->
+    <dimen name="spacing_4dp">4dp</dimen>
+    <dimen name="spacing_8dp">8dp</dimen>
+    <dimen name="spacing_12dp">12dp</dimen>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="spacing_20dp">20dp</dimen>
+    <dimen name="spacing_24dp">24dp</dimen>
+    <dimen name="spacing_32dp">32dp</dimen>
+    <dimen name="spacing_48dp">48dp</dimen>
+    <dimen name="spacing_64dp">64dp</dimen>
+    
+    <!-- Standard margins -->
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    
+    <!-- Card dimensions -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_min_height">80dp</dimen>
+    
+    <!-- Button dimensions -->
+    <dimen name48dp</dimen>
+    ="button_height"><dimen name="button_height_large">56dp</dimen>
+    <dimen name="button_height_small">40dp</dimen>
+    <dimen name="button_min_width">120dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    
+    <!-- Input dimensions -->
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="input_corner_radius">8dp</dimen>
+    <dimen name="input_padding_horizontal">16dp</dimen>
+    <dimen name="input_padding_vertical">8dp</dimen>
+    
+    <!-- Toolbar dimensions -->
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="toolbar_content_inset_start">16dp</dimen>
+    <dimen name="toolbar_content_inset_end">16dp</dimen>
+    
+    <!-- Floating Action Button -->
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_mini_size">40dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    
+    <!-- Photo dimensions -->
+    <dimen name="profile_photo_size">120dp</dimen>
+    <dimen name="family_member_photo_size">60dp</dimen>
+    <dimen name="family_member_photo_small_size">40dp</dimen>
+    <dimen name="profile_photo_border_width">2dp</dimen>
+    <dimen name="profile_photo_corner_radius">8dp</dimen>
+    
+    <!-- Status indicators -->
+    <dimen name="status_indicator_size">12dp</dimen>
+    <dimen name="status_indicator_small_size">8dp</dimen>
+    <dimen name="status_indicator_margin">2dp</dimen>
+    
+    <!-- List item dimensions -->
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="list_item_height_small">56dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_margin">4dp</dimen>
+    
+    <!-- QR Code dimensions -->
+    <dimen name="qr_code_size">250dp</dimen>
+    <dimen name="qr_code_border_width">8dp</dimen>
+    <dimen name="qr_code_margin">16dp</dimen>
+    <dimen name="qr_container_padding">24dp</dimen>
+    
+    <!-- Map dimensions -->
+    <dimen name="map_control_button_height">48dp</dimen>
+    <dimen name="map_control_button_width">48dp</dimen>
+    <dimen name="map_info_window_padding">8dp</dimen>
+    <dimen name="map_marker_size">32dp</dimen>
+    <dimen name="map_marker_anchor_x">16dp</dimen>
+    <dimen name="map_marker_anchor_y">32dp</dimen>
+    
+    <!-- Text sizes -->
+    <dimen name="text_size_headline1">32sp</dimen>
+    <dimen name="text_size_headline2">28sp</dimen>
+    <dimen name="text_size_headline3">24sp</dimen>
+    <dimen name="text_size_title_large">22sp</dimen>
+    <dimen name="text_size_title_medium">16sp</dimen>
+    <dimen name="text_size_title_small">14sp</dimen>
+    <dimen name="text_size_body_large">16sp</dimen>
+    <dimen name="text_size_body_medium">14sp</dimen>
+    <dimen name="text_size_body_small">12sp</dimen>
+    <dimen name="text_size_caption">11sp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+    <dimen name="text_size_toolbar_title">20sp</dimen>
+    <dimen name="text_size_toolbar_subtitle">14sp</dimen>
+    
+    <!-- Elevation values -->
+    <dimen name="elevation_none">0dp</dimen>
+    <dimen name="elevation_low">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+    <dimen name="elevation_very_high">16dp</dimen>
+    
+    <!-- Navigation -->
+    <dimen name="bottom_nav_height">56dp</dimen>
+    <dimen name="bottom_nav_elevation">8dp</dimen>
+    
+    <!-- Dialog dimensions -->
+    <dimen name="dialog_padding">24dp</dimen>
+    <dimen name="dialog_margin">16dp</dimen>
+    <dimen name="dialog_corner_radius">12dp</dimen>
+    <dimen name="dialog_elevation">8dp</dimen>
+    <dimen name="dialog_max_width">360dp</dimen>
+    
+    <!-- Progress indicators -->
+    <dimen name="progress_bar_size">48dp</dimen>
+    <dimen name="progress_bar_thickness">4dp</dimen>
+    <dimen name="progress_indicator_size">24dp</dimen>
+    
+    <!-- Divider dimensions -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">16dp</dimen>
+    
+    <!-- Switch dimensions -->
+    <dimen name="switch_track_width">52dp</dimen>
+    <dimen name="switch_track_height">32dp</dimen>
+    <dimen name="switch_thumb_size">20dp</dimen>
+    
+    <!-- Edit text and form elements -->
+    <dimen name="edit_text_height">56dp</dimen>
+    <dimen name="edit_text_corner_radius">8dp</dimen>
+    <dimen name="edit_text_padding_horizontal">16dp</dimen>
+    <dimen name="edit_text_padding_vertical">12dp</dimen>
+    
+    <!-- Date picker dimensions -->
+    <dimen name="date_picker_height">320dp</dimen>
+    <dimen name="date_picker_width">320dp</dimen>
+    
+    <!-- Image dimensions -->
+    <dimen name="image_view_corner_radius">8dp</dimen>
+    <dimen name="image_view_border_width">1dp</dimen>
+    
+    <!-- RecyclerView dimensions -->
+    <dimen name="recycler_view_padding">8dp</dimen>
+    <dimen name="recycler_view_divider_height">1dp</dimen>
+    
+    <!-- Container dimensions -->
+    <dimen name="container_padding">16dp</dimen>
+    <dimen name="container_margin">8dp</dimen>
+    <dimen name="container_max_width">360dp</dimen>
+    
+</resources>
